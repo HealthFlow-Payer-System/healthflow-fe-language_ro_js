@@ -3239,7 +3239,7 @@
     "workerVoucher.acquire.confirmation": "Confirm achiziționarea voucherului, confirmând că am citit și sunt de acord cu termenii și politicile.",
     "workerVoucher.assign.confirmation": "Confirm atribuirea voucherului, recunoscând că am citit și sunt de acord cu termenii și politicile.",
     "workerVoucher.vouchers.required": "Trebuie să completați toate câmpurile obligatorii pentru a continua",
-    "workerVoucher.WorkerMultiplePicker.placeholder": "Caută lucrător",
+    "workerVoucher.WorkerMultiplePicker.placeholder": "Căutați după IDNP, Prenumele sau Numele Lucrătorului",
     "workerVoucher.WorkerMultiplePicker.underThreshold": "Introduceți cel puțin 3 caractere: IDNP, Prenumele sau Numele Zilierului",
     "workerVoucher.WorkerMultiplePicker.noOptions": "Nu a fost găsit niciun rezultat",
     "workerVoucher.WorkerMultiplePicker.checkbox.label": "Afișează numai lucrătorii cu care am lucrat anterior",
@@ -3434,5 +3434,8 @@
     "moldovaLanding.ProgramSummary.downloadGuide": "Descarcă ghidul de utilizare a \"Voucherului pentru Zilieri\"",
     "moldovaLanding.ProgramSummary.contactUs": "Contactează-ne dacă ai întrebări",
     "moldovaLanding.ProgramSummary.buttonCta": "Descarcă Ghidul",
-    "core.LoginPage.howToUse": "Ghid pentru utilizatori"
+    "core.LoginPage.howToUse": "Ghid pentru utilizatori",
+    "workerVoucher.VoucherAcquirementForm.form.moreInfo": "Decideți dacă doriți să obțineți vouchere nepersonale sau personale. Dacă alegeți vouchere nepersonale, le veți putea atribui lucrătorilor ulterior. Dacă alegeți vouchere personale, le veți putea atribui imediat unui lucrător specific. Confirmați achiziția folosind butonul din colțul din dreapta sus.",
+    "workerVoucher.VoucherAcquirementSpecificWorker.form.moreInfo": "Selectați toți lucrătorii cărora doriți să le obțineți voucherele. Determinați perioadele de valabilitate ale voucherelor și confirmați achiziția folosind butonul din colțul din dreapta sus.",
+    "workerVoucher.VoucherAcquirementGenericVoucher.form.moreInfo": "Indicați cantitatea de vouchere pe care doriți să le obțineți și confirmați achiziția folosind butonul din colțul din dreapta sus."
 }
