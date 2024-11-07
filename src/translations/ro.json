@@ -3198,6 +3198,7 @@
     "workerVoucher.status.EXPIRED": "EXPIRAT",
     "workerVoucher.status.CANCELED": "ANULAT",
     "workerVoucher.status.CLOSED": "ÎNCHIS",
+    "workerVoucher.status.PRINTED": "TIPĂRIT",
     "workerVoucher.WorkersPage.addAction": "Adaugă Lucrător",
     "workerVoucher.WorkerSearcher.exportClose": "Închide",
     "workerVoucher.VoucherDetailsPage.title": "Voucherul lucrătorului - {code}",
@@ -3465,5 +3466,9 @@
     "workerVoucher.SystemData.payment.unpaid": "Neachitate",
     "workerVoucher.WorkersPage.uploadAction": "Încarcă lista",
     "workerVoucher.GroupSearcher.infoButtonContent": "Creează un grupuri de lucrători pentru diferite perioade și scopuri. Această opțiune te va ajuta să gestionezi lucrătorii activi într-o anumită perioadă.",
-    "workerVoucher.GroupWorkerManagePanel.inputTooltip": "Introduceți unul dintre aceste elemente: IDNP, Prenumele sau Numele lucrătorului."
+    "workerVoucher.GroupWorkerManagePanel.inputTooltip": "Introduceți unul dintre aceste elemente: IDNP, Prenumele sau Numele lucrătorului.",
+    "workerVoucher.VoucherGenericPrintModal.title": "Tipărește Voucher Nepersonalizat",
+    "workerVoucher.VoucherGenericPrintModal.description": "Urmează să tipăriți un voucher nepersonalizat. După tipărire, voucherul va fi marcat ca TIPĂRIT, făcându-l inutilizabil în cadrul sistemului. Această acțiune este permanentă și nu poate fi anulată.",
+    "workerVoucher.VoucherGenericPrintModal.checkbox": "Confirm că doresc să tipăresc voucherul nepersonalizat și înțeleg consecințele.",
+    "workerVoucher.VoucherGenericPrintModal.confirm": "Continuă"
 }
