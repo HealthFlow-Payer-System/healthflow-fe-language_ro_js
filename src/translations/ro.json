@@ -3470,5 +3470,7 @@
     "workerVoucher.VoucherGenericPrintModal.title": "Tipărește Voucher Nepersonalizat",
     "workerVoucher.VoucherGenericPrintModal.description": "Urmează să tipăriți un voucher nepersonalizat. După tipărire, voucherul va fi marcat ca TIPĂRIT, făcându-l inutilizabil în cadrul sistemului. Această acțiune este permanentă și nu poate fi anulată.",
     "workerVoucher.VoucherGenericPrintModal.checkbox": "Confirm că doresc să tipăresc voucherul nepersonalizat și înțeleg consecințele.",
-    "workerVoucher.VoucherGenericPrintModal.confirm": "Continuă"
+    "workerVoucher.VoucherGenericPrintModal.confirm": "Continuă",
+    "core.Table.nextPage": "Pagina următoare",
+    "core.Table.previousPage": "Pagina anterioară"
 }
