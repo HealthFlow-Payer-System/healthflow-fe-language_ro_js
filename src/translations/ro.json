@@ -3470,5 +3470,6 @@
     "workerVoucher.VoucherGenericPrintModal.checkbox": "Confirm că doresc să tipăresc voucherul nepersonalizat și înțeleg consecințele.",
     "workerVoucher.VoucherGenericPrintModal.confirm": "Continuă",
     "core.Table.nextPage": "Pagina următoare",
-    "core.Table.previousPage": "Pagina anterioară"
+    "core.Table.previousPage": "Pagina anterioară",
+    "workerVoucher.AdminAndInspectorDashboard.title": "Bună, {user}!"
 }
