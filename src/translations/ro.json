@@ -3458,6 +3458,7 @@
     "workerVoucher.SystemData.voucher.assigned": "Atribuite",
     "workerVoucher.SystemData.voucher.expired": "Expirate",
     "workerVoucher.SystemData.voucher.cancelled": "Anulate",
+    "workerVoucher.SystemData.voucher.printed": "Tipărite",
     "workerVoucher.SystemData.payment.title": "Plăți",
     "workerVoucher.SystemData.payment.paid": "Achitate",
     "workerVoucher.SystemData.payment.unpaid": "Neachitate",
